@@ -9,8 +9,8 @@ from datetime import datetime
 import threading
 
 # API Key and Secret - make sure they have restricted permissions
-API_KEY = 'xLGKkXgRHEdJVpKlIi08iMUMHuhBNIj99e3f3ibQRAcQMTRizbE1GVtiX0QoUbgk'
-API_SECRET = 'OaOsVaSTrpOxslhnPLB8DDAfS0aufRBqG6LGS22F5MkA9WaeacmqQL00MtVC5Kke'
+API_KEY = ''
+API_SECRET = ''
 
 client = Client(API_KEY, API_SECRET)
 
