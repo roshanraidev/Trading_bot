@@ -8,7 +8,7 @@ from binance.enums import *
 from datetime import datetime
 import threading
 
-# API Key and Secret - make sure they have restricted permissions
+# API Key and Secret 
 API_KEY = ''
 API_SECRET = ''
 
